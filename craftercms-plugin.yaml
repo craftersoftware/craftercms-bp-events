@@ -19,21 +19,21 @@ plugin:
     Events is a single page Crafter 3 blueprint
   website:
     name: "Event"
-    url: https://github.com/rivetlogic/craftercms-bp-events.git
+    url: https://github.com/craftersoftware/craftercms-bp-events
   media:
     screenshots:
       - title: Home Section
         description: Screenshot of the home section
-        url: "https://raw.githubusercontent.com/rivetlogic/craftercms-bp-events/master/static-assets/images/screenshots/bp_events_home.png"
+        url: "https://raw.githubusercontent.com/craftersoftware/craftercms-bp-events/5/static-assets/images/screenshots/bp_events_home.png"
       - title: Overview Section
         description: Screenshot of the overview section
-        url: "https://raw.githubusercontent.com/rivetlogic/craftercms-bp-events/master/static-assets/images/screenshots/bp_events_overview.png"
+        url: "https://raw.githubusercontent.com/craftersoftware/craftercms-bp-events/5/static-assets/images/screenshots/bp_events_overview.png"
       - title: Programs Section
         description: Screenshot of the programs section
-        url: "https://raw.githubusercontent.com/rivetlogic/craftercms-bp-events/master/static-assets/images/screenshots/bp_events_programs.png"
+        url: "https://raw.githubusercontent.com/craftersoftware/craftercms-bp-events/5/static-assets/images/screenshots/bp_events_programs.png"
       - title: Frequent Asked Questions Section
         description: Screenshot of the frequent asked questions section
-        url: "https://raw.githubusercontent.com/rivetlogic/craftercms-bp-events/master/static-assets/images/screenshots/bp_events_faqs.png"
+        url: "https://raw.githubusercontent.com/craftersoftware/craftercms-bp-events/5/static-assets/images/screenshots/bp_events_faqs.png"
   developer:
     company:
       name: Rivet Logic
